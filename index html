@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Redirecionamento</title>
+    <link rel="icon" type="image/x-icon" href="imagens/images.png">
+</head>
+<body>
+    <h1>Modelo de Site</h1>
+    (br)
+    <section class="noticias">
+        <p href="esporte"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia repudiandae quasi omnis molestiae impedit? Labore, laudantium laborum ex ea laboriosam ducimus enim, ab, eius recusandae earum ratione iste. Suscipit, nostrum.</p>
+        <P></P>
+        <p></p>
+    </section>
+    <section class="contato">
+        <a href="contato.html">Veja nossos contatos</a>
+        <a href="https:google.com.br">visite nossa luja online</a>
+        <br>
+        <a href="https:google.com.br" terget = "_blank">Acesse nossa Loja</a>
+    </section>
+</body>
+</html>
