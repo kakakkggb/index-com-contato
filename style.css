@@ -5,16 +5,16 @@ body{
     background-color: beige;
 }
 p {
-    background-color: brown;
+    background-color: darksalmon;
     text-align: justify;
     font-size: 17px;
 }
 .noticias{
-    background-color: brown;
+    background-color: darksalmon;
 }
 .contato {
     margin-top: 10px;
-    background-color:brown ;
+    background-color:darksalmon ;
     padding: 5px;
 }
 #esporte{
@@ -23,7 +23,7 @@ p {
     background-color: brown;
 }
 a{
-    color: rgb(242, 123, 123);
+    color:crimson;
     margin-right: 20px;
     line-height: 30px;
 }
